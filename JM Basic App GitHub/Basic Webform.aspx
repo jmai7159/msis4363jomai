@@ -13,6 +13,7 @@ JM_Basic_App_GitHub.Basic_Webform" %>
             <% JM_Basic_App_GitHub.Class1 tp = new JM_Basic_App_GitHub.Class1(); %> 
               
             <%=tp.Name %> 
+            <p>Hello VS to Git in GitHub!</p>
         </div> 
     </form> 
 </body> 
